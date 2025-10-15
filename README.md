@@ -1,3 +1,14 @@
+<img width="1697" height="551" alt="image" src="https://github.com/user-attachments/assets/5b04beac-0f04-4685-a4b8-97e6b36fa064" />
+
+<img width="1573" height="399" alt="image" src="https://github.com/user-attachments/assets/a6b209e1-47fe-4ae0-bdf2-9f18e6aa1be0" />
+
+
+
+<img width="1603" height="272" alt="image" src="https://github.com/user-attachments/assets/68f1b613-cb2d-4640-8945-9f8832c2dc81" />
+
+
+<img width="1475" height="687" alt="image" src="https://github.com/user-attachments/assets/b201804f-8a26-4d15-b45b-928022ca0384" />
+
 # Get-Rewards — Selenium-Based Testing Trick
 
 *Automated news-searching script that collects reward/coin points — proof-of-concept demo project*
